@@ -33,6 +33,11 @@ Projeto de análise exploratória (EDA) de dados históricos da Copa do Mundo da
 |---------------------------------|--------------------------------|
 | ![Público](img/Público.png) | ![Seleções Mais ofensivas ](img/ofensividade.png) |
 
+## 📬 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vitor_Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-e-s-santos/)
+[![Instagram](https://img.shields.io/badge/Instagram-@vitoredu_santos-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitoredu_santos/)
+[![Outlook](https://img.shields.io/badge/Outlook-vitore.santos@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vitore.santos@hotmail.com)
+
 ## 📜 Licença MIT  
 Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
